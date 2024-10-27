@@ -52,8 +52,8 @@ const CustomCursor = () => {
       style={{
         left: `${position.x}px`,
         top: `${position.y}px`,
-        width: isHoveringText ? '2px' : '40px',
-        height: isHoveringText ? `${cursorHeight}px` : '40px',
+        width: isHoveringText ? '2px' : '33px',
+        height: isHoveringText ? `${cursorHeight}px` : '33px',
         backgroundColor: '#007bff',
         borderRadius: isHoveringText ? '0' : '50%',
         position: 'fixed',
