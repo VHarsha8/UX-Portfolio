@@ -6,6 +6,7 @@
 /* Hide default cursor */
 body {
   cursor: none;
+  background-color:black;
 }
 
 
