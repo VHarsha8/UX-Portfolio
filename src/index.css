@@ -3,8 +3,14 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Hide default cursor */
+body {
+  cursor: none;
+}
 
-/* styles.css */
 
 
-  
+.hover-text {
+  position: relative;
+  color: #000;
+}
