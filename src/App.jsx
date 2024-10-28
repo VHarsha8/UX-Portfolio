@@ -1,7 +1,7 @@
 import React from 'react';
 import Home from './pages/Home';
 import CustomCursor from './components/CustomCursor.jsx';
-import ButtonComponent from './components/ButtonComponent';
+import ServicesProvided from './components/ServicesProvided.jsx';
 import Projects from './pages/Projects.jsx';
 
 function App() {
@@ -17,6 +17,7 @@ function App() {
       <CustomCursor />
       {/* Add other components like Home, About, Portfolio here */}
       <Projects />
+      <ServicesProvided />
     </div>
   );
 }
