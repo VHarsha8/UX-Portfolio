@@ -3,6 +3,9 @@ import Home from './pages/Home';
 import CustomCursor from './components/CustomCursor.jsx';
 import ServicesProvided from './components/ServicesProvided.jsx';
 import Projects from './pages/Projects.jsx';
+import CaseStudyRailNav from './pages/CaseStudyRailNav.jsx';
+import CaseStudyAha from './pages/CaseStudyAha.jsx';
+import Socials from './components/Socials.jsx';
 
 function App() {
   return (
@@ -18,6 +21,10 @@ function App() {
       {/* Add other components like Home, About, Portfolio here */}
       <Projects />
       <ServicesProvided />
+      <CaseStudyRailNav />
+      <br /><br />
+      <CaseStudyAha />
+      <Socials />
     </div>
   );
 }
