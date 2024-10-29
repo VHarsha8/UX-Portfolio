@@ -22,7 +22,7 @@ const ServicesProvided = () => {
                     }
                 `}
             </style>
-            <h1 className="md:text-5xl text-3xl text-white font-ibm-plex-mono">Services.</h1>
+            <h1 className="md:text-5xl text-4xl text-white font-ibm-plex-mono">Services.</h1>
             <div className="grid items-center justify-center gap-4 md:grid-cols-3 md:flex-row">
                 <div className="relative grid gap-3 p-6 border shadow-lg bg-white/5 backdrop-blur-lg border-white/20 rounded-xl">
                     <div className="mesh-pattern"></div>
