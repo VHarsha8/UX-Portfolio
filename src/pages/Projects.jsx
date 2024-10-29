@@ -9,7 +9,7 @@ const Projects = () =>{
             </div>
             <div className='flex flex-col flex-wrap gap-6 p-6'>
                     <div className='flex gap-3 flex-col'>
-                            <h1 className='md:text-5xl text-3xl text-white font-ibm-plex-mono '>Aha Bhojanam.</h1>
+                            <h1 className='md:text-5xl text-4xl text-white font-ibm-plex-mono '>Aha Bhojanam.</h1>
                              <h1 className='text-xl text-white font-ibm-plex-mono '>a Restaurant app</h1>
                     </div>
                      
