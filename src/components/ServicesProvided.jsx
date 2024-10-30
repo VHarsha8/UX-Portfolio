@@ -22,12 +22,7 @@ const ServicesProvided = () => {
                     }
                 `}
             </style>
-<<<<<<< HEAD
-            <h1 className="text-5xl text-white md:font-medium font-ibm-plex-mono">Services.</h1>
-            <h1 className="leading-7 text-white font-ibm-plex-mono">Bringing ideas to life through interactive prototypes that offer a clear, realistic preview of the final product. My prototyping process allows for early testing and feedback, ensuring the design aligns perfectly with the intended user experience.</h1>
-=======
-            <h1 className="md:text-5xl text-4xl text-white font-ibm-plex-mono">Services.</h1>
->>>>>>> d86af7fc0b804cf3b4c0f0b077ca4b3facea0515
+            <h1 className="text-4xl text-white md:text-5xl font-ibm-plex-mono">Services.</h1>
             <div className="grid items-center justify-center gap-4 md:grid-cols-3 md:flex-row">
                 <div className="relative grid gap-3 p-6 border shadow-lg bg-white/5 backdrop-blur-lg border-white/20 rounded-xl">
                     <div className="mesh-pattern"></div>
