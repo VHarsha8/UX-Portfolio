@@ -21,9 +21,7 @@ function App() {
       {/* Add other components like Home, About, Portfolio here */}
       <Projects />
       <ServicesProvided />
-      <CaseStudyRailNav />
-      <br /><br />
-      <CaseStudyAha />
+      
       <Socials />
     </div>
   );
