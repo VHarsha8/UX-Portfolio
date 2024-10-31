@@ -7,7 +7,7 @@ const Projects = () =>{
                         <div className='absolute w-full h-full rounded-full bg-blue-700/30 blur-3xl top-[30%] right-[40%]'></div>
 
             <div className='flex items-center justify-center '>
-            <img src= {RailNav} alt="mr" className='w-fit'/>
+            <img src= {RailNav} alt="mr" className='z-30 w-fit' />
             </div>
             <div className='flex flex-col flex-wrap gap-6 p-0 md:p-6 md:justify-center'>
                             <h1 className='z-30 text-4xl text-white md:text-5xl font-ibm-plex-mono '>Rail Nav.</h1>

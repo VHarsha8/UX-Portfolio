@@ -5,7 +5,7 @@ const Projects1 = () =>{
         <div className='md:w-[800px] md:px-0  overflow-hidden relative p-6 mt-6 bg-blue-700/10 border border-white/30 rounded-2xl mx-4 md:mx-auto md:flex-row-reverse flex flex-col  '>
             <div className='absolute w-full h-full rounded-full bg-blue-700/30 blur-3xl top-[30%] right-[40%]'></div>
             <div className='flex items-center justify-center '>
-            <img src="/ahabhojanammockup2.png" alt="mr" className='w-fit'/>
+            <img src="/ahabhojanammockup2.png" alt="mr" className='z-30 w-fit '/>
             </div>
             <div className='flex flex-col flex-wrap gap-6 p-0 md:p-6 md:justify-center'>
                             <h1 className='z-30 text-4xl text-white md:text-5xl font-ibm-plex-mono '>Aha Bhojanam.</h1>
