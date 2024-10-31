@@ -3,7 +3,7 @@ import ButtonComponent from '../components/ButtonComponent';
 
 const Projects = () =>{
     return(
-        <div className='md:w-[800px] md:p-0 overflow-hidden  relative p-6 mt-6 bg-blue-700/5 border border-white/30 rounded-2xl mx-4 md:mx-auto md:flex-row-reverse flex flex-col  '>
+        <div className='md:w-[800px] md:p-0 overflow-hidden  relative p-6 mt-6 bg-blue-700/10 border border-white/20 rounded-2xl mx-4 md:mx-auto md:flex-row-reverse flex flex-col  '>
                         <div className='absolute hidden w-full h-full rounded-full bg-blue-700/30 blur-3xl top-[30%] right-[40%]'></div>
 
             <div className='flex items-center justify-center '>
