@@ -2,8 +2,8 @@ import ButtonComponent from '../components/ButtonComponent';
 
 const Projects1 = () =>{
     return(
-        <div className='md:w-[800px] md:px-0  overflow-hidden relative p-6 mt-6 bg-blue-700/10 border border-white/20 rounded-2xl mx-4 md:mx-auto md:flex-row-reverse flex flex-col  '>
-            <div className='absolute w-full h-full rounded-full bg-blue-700/30 blur-3xl top-[30%] right-[40%]'></div>
+        <div className='md:w-[800px] md:p-0 overflow-hidden  relative p-6 mt-6 bg-black border border-white/10 rounded-2xl mx-4 md:mx-auto md:flex-row-reverse flex flex-col  '>
+                        <div className='absolute  w-full h-full rounded-full bg-white/30 blur-3xl bottom-[60%] right-[40%]'></div>
             <div className='flex items-center justify-center '>
             <img src="/ahabhojanammockup2.png" alt="mr" className='z-30 w-3/4 md:w-fit '/>
             </div>
