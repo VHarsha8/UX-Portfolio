@@ -6,6 +6,7 @@ import Projects from './pages/Projects.jsx';
 import CaseStudyRailNav from './pages/CaseStudyRailNav.jsx';
 import CaseStudyAha from './pages/CaseStudyAha.jsx';
 import Socials from './components/Socials.jsx';
+import Projects1 from './pages/Projects1.jsx';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <CustomCursor />
       {/* Add other components like Home, About, Portfolio here */}
       <Projects />
+      <Projects1 />
       <ServicesProvided />
       
       <Socials />

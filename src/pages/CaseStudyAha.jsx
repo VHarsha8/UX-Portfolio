@@ -3,6 +3,8 @@
 const CaseStudyAha = () =>{
     return(
         <div className="md:w-[800px] mb-10 flex flex-col mx-auto ">
+
+            
             
 
             <div className="grid grid-cols-3 gap-6 px-6 md:px-0">
