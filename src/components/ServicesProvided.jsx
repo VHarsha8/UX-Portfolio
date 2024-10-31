@@ -23,6 +23,8 @@ const ServicesProvided = () => {
                 `}
             </style>
             <h1 className="text-4xl text-white md:text-5xl font-ibm-plex-mono">Services.</h1>
+            
+            <h1 className="text-sm text-white md:text-md font-ibm-plex-mono">Committed to delivering design solutions that balance aesthetics with functionality, I ensure each project is visually captivating and user-centered. With a strong foundation in modern design principles, I create interfaces that are both stunning and intuitive for every user.</h1>
             <div className="grid items-center justify-center gap-4 md:grid-cols-3 md:flex-row">
                 <div className="relative grid gap-3 p-6 border shadow-lg bg-white/5 backdrop-blur-lg border-white/20 rounded-xl">
                     <div className="mesh-pattern"></div>
